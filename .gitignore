@@ -1,6 +1,6 @@
 # == FOLDERS IGNORED ==
 node_modules/
-#dist
+dist
 
 # == ENV FILES
 .env
